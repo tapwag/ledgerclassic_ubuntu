@@ -1,0 +1,28 @@
+$self{texts} = {
+  'Company'                     => 'Firma',
+  'Continue'                    => 'Weiter',
+  'Dataset is newer than version!' => 'Datenset ist neuer als installierte Version',
+  'Incorrect Dataset version!'  => 'Ungültige Datenset-Version',
+  'Login'                       => 'Benutzername',
+  'Name'                        => 'Name',
+  'No email address for'        => 'Keine E-Mailadresse für',
+  'Password'                    => 'Passwort',
+  'Upgrading to Version'        => 'Datenset wird erneuert auf Version',
+  'Version'                     => 'Version',
+  'You did not enter a name!'   => 'Sie haben keinen Namen eingegeben!',
+};
+
+$self{subs} = {
+  'continue'                    => 'continue',
+  'email_tan'                   => 'email_tan',
+  'login'                       => 'login',
+  'login_screen'                => 'login_screen',
+  'logout'                      => 'logout',
+  'selectdataset'               => 'selectdataset',
+  'tan_login'                   => 'tan_login',
+  'weiter'                      => 'continue',
+  'benutzername'                => 'login',
+};
+
+1;
+
